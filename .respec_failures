@@ -1,0 +1,5 @@
+Bundler Gemfile lists the hashie gem without specifying a version
+Bundler Gemfile lists the sinatra gem with the specific version 2.0.2
+Bundler Gemfile lists the octokit gem specifying version 2.0 with a twiddle-wakka
+Bundler Gemfile lists the awesome_print gem specifying a remote git repository using the SSH URL (use github)
+Bundler Gemfile groups contains the rspec gem in the test group using block syntax
